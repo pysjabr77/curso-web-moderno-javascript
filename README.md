@@ -14,6 +14,8 @@
 
 - Secao 3: Javascript: Fundamentos
 
+  - Visao Geral de Algoritmo
+
 - Secao 4: Javascript: Estrutura de Controle
 
 - Secao 5: Javascript: Funcao
