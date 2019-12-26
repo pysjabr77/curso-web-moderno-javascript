@@ -17,7 +17,6 @@
 - Secao 3: Javascript: Fundamentos
 
   - Visao Geral de Algoritmo
-<<<<<<< HEAD
   - Visao Geral de Estrutura de Dados: organiza e administra os dados.
   - Configuracao do Projeto
   - Organizacao basica de um codigo js
@@ -42,10 +41,6 @@
   - Declaracao de Variaveis com Var #01
   - Declaracao de Variaveis com Var #02
   - Declaracao de Variaveis com Let
-=======
-
-- Secao 4: Javascript: Estrutura de Controle
->>>>>>> b87f5e2cd716f42eda830847bfd2498fb522e32d
 
 * Secao 4: Javascript: Estrutura de Controle
 
