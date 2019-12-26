@@ -11,25 +11,62 @@
 
   - Instalacao Node
   - Configuracao do Editor (VSCode)
+  - Configuracao do comando code
+  - Instalacao do VSCode (Windows)
 
 - Secao 3: Javascript: Fundamentos
 
-- Secao 4: Javascript: Estrutura de Controle
+  - Visao Geral de Algoritmo
+  - Visao Geral de Estrutura de Dados: organiza e administra os dados.
+  - Configuracao do Projeto
+  - Organizacao basica de um codigo js
+  - Executando javascript
+    - Quando vc entrar num site vc pode usar o javascrit da pagina, por exemplo o
+      site do JQuery
+  - Comentarios de Codigo
+  - O basico de Var, Let (a partir do ECMAScript 2015) e Const
+  - Tipagem fraca
+  - Tipos em JavaScript: Number
+  - Number: Alguns Cuidados
+  - Usando Math
+  - Tipos em JavaScript: String
+  - Usando Template Strings
+  - Tipos em JavaScript: Boolean
+  - Tipos em JavaScript: Array
+  - Tipos em JavaScript: Object
+  - Entendendo o Null & Undefined
+  - Quase Tudo e Funcao
+  - Exemplos Basicos de funcoes #01
+  - Exemplos Basicos de funcoes #02
+  - Declaracao de Variaveis com Var #01
+  - Declaracao de Variaveis com Var #02
+  - Declaracao de Variaveis com Let
 
-- Secao 5: Javascript: Funcao
+* Secao 4: Javascript: Estrutura de Controle
 
-- Secao 6: Javascript: Objeto
+* Secao 5: Javascript: Funcao
 
-- Secao 7: Javascript: Array
+* Secao 6: Javascript: Objeto
 
-- Secao 1:
+* Secao 7: Javascript: Array
 
-- Secao 1:
+* Secao 1: Node
 
-- Secao 1:
+* Secao 1: ESNext
 
-- Secao 1:
+* Secao 1:
 
-- Secao 1:
+* Secao 1:
+
+* Secao 1:
+
+#Comando
+
+- Control + Alt + N para rodar no code runner no Mac
 
 #Links
+
+#Ferramentas
+
+- https://repl.it/ (editor online)
+- https://jsfiddle.net/ (editor online)
