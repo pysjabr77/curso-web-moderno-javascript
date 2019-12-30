@@ -41,6 +41,20 @@
   - Declaracao de Variaveis com Var #01
   - Declaracao de Variaveis com Var #02
   - Declaracao de Variaveis com Let
+  - Usando var em Loop #1
+  - Usando let em Loop #1
+  - Usando var em Loop #2
+  - Usando let em Loop #2
+  - Entendendo o Hoisting
+  - Funcao vs Objeto
+  - Par Nome/Valor
+  - Notacao Ponto
+  - Operadores: Atribuicao
+  - Operadores: Destructuring #01
+  - Operadores: Destructuring #02
+  - Operadores: Destructuring #03
+  - Operadores: Destructuring #04
+  - Operadores: Aritmeticos
 
 * Secao 4: Javascript: Estrutura de Controle
 
