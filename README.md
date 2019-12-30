@@ -55,6 +55,11 @@
   - Operadores: Destructuring #03
   - Operadores: Destructuring #04
   - Operadores: Aritmeticos
+  - Operadores: Relacionais
+  - Operadores: Logicos
+  - Operadores: Unarios
+  - Operadores: Ternario
+  - Contexto de Execucao: Browser vs Node
 
 * Secao 4: Javascript: Estrutura de Controle
 
